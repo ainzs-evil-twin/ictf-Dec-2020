@@ -8,8 +8,12 @@ My challenge submissions for Imaginary CTF for the month of December 2020.
 (I'll be updating the list as I keep adding challenges)
 
 - [all-the-shares2](../main/all-the-shares2/README.md)
-- [Lo-Siento-Bella](../main/Lo-Siento-Bella/README.md)
-- [walking-with-bin](../main/walking-with-bin/README.md)
+- [muh-bacon](../main/muh-bacon/README.md)
+- [broken-png0](../main/broken-png0/README.md)
+- [broken-png1](../main/broken-png1/README.md)
+- [broken-png2](../main/broken-png2/README.md)
+- [broken-png3](../main/broken-png3/README.md)
+- [reverse-me](../main/reverse-me/README.md)
 - SSS with z3
 - z3/ANGR typical problem
 - Zero width encoding for script kiddies
