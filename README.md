@@ -19,10 +19,6 @@ My challenge submissions for Imaginary CTF for the month of December 2020.
 - Zero width encoding for script kiddies
 - RSA with common n
 - RSA with p,q,r,s
-- john to get hash, but crackstation to solve
-- steghide
-- lsb variations
-- polyglots
 - Diffie Hellman key exchange
 - make use for putting large numbers in int
 - buffer overflow, overwrite args x86
@@ -31,8 +27,6 @@ My challenge submissions for Imaginary CTF for the month of December 2020.
 - esoteric programming language
 - cookie manipulation with HMAC
 - curl header manipulation for user-agent
-- bad PNG magic numbers
-- wrong IDAT chunk size
 
 ## Flag format
 
