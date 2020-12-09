@@ -13,7 +13,8 @@ My challenge submissions for Imaginary CTF for the month of December 2020.
 - [broken-png1](../main/broken-png1/README.md)
 - [broken-png2](../main/broken-png2/README.md)
 - [broken-png3](../main/broken-png3/README.md)
-- [reverse-me](../main/reverse-me/README.md)
+- [homemade-xor1](../main/homemade-xor1/README.md)
+- [see-the-past2](../main/see-the-past2/README.md)
 - SSS with z3
 - z3/ANGR typical problem
 - Zero width encoding for script kiddies
