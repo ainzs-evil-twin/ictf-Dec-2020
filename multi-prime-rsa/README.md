@@ -2,7 +2,7 @@
 
 ## Description
 
-Just as they say, multi-prime RSA(MPRSA) is more efficient than the standard RSA. But the Chinese Remainder Theorem still applies and for a given n-bit modulus, factorizing MPRSA is much faster and easier than standard RSA.
+Just as they say, **multi-prime RSA(MPRSA)** is more efficient than the **standard RSA**. But the **Chinese Remainder Theorem** still applies and for a given n-bit modulus, factorizing **MPRSA** is much faster and easier than **standard RSA**.
 
 ## Attachments
 
